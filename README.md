@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ydaniju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m Yusuf Daniju
 - 👀 I’m interested in healthcare, agriculture and education
 - 🌱 I’m currently learning how to manage people better
